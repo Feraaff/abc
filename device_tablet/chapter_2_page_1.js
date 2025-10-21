@@ -1,0 +1,36 @@
+TabletResponsive={"1009":{
+"pageLayer":{"w":1009,"h":662,"bgColor":"#ffffff","bgImage":"images/background.png","bgSize":"994px 621px","bgRepeat":"repeat"}
+,
+"text6893":{"x":305,"y":52,"w":953,"h":76,"txtscale":100,"bOffBottom":0}
+,
+"image7024":{"x":0,"y":0,"w":1009,"h":86,"bOffBottom":0,"i":"images/header.png"}
+,
+"image7026":{"x":0,"y":572,"w":1009,"h":90,"bOffBottom":1,"i":"images/footer.png"}
+,
+"image6090":{"x":288,"y":0,"w":390,"h":151,"bOffBottom":0,"i":"images/gemini_generated_image_qg4fnvqg4fnvqg4f_1_crop_image2899.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/background.png','images/gemini_generated_image_qg4fnvqg4fnvqg4f_1_crop_image2899.png']
+},
+"785":{
+"pageLayer":{"w":785,"h":1000,"bgColor":"#999999","bgImage":"images/background001.png","bgSize":"785px 569px","bgRepeat":"repeat-y"}
+,
+"text6893":{"x":28,"y":60,"w":727,"h":76,"txtscale":100,"bOffBottom":0}
+,
+"image7024":{"x":0,"y":0,"w":785,"h":86,"bOffBottom":0,"i":"images/header001.png"}
+,
+"image7026":{"x":0,"y":924,"w":785,"h":76,"bOffBottom":1,"i":"images/footer001.png"}
+,
+"image6090":{"x":224,"y":0,"w":304,"h":117,"bOffBottom":0,"i":"images/gemini_generated_image_qg4fnvqg4fnvqg4f_1_crop_image2899.png"}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/header001.png','images/footer001.png','images/background001.png','images/gemini_generated_image_qg4fnvqg4fnvqg4f_1_crop_image2899.png']
+}}
